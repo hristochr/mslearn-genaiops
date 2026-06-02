@@ -1,0 +1,6 @@
+test_prompt,agent_response_excerpt,intent_resolution,relevance,groundedness,depth,comments
+day-hike-gear,"For a summer day hike on moderate terrain, here\u2019s a practical gear list to keep you safe,...",4,4,4,3,Good coverage but less detailed than GPT-4
+overnight-camping,".For your first overnight camping trip, preparation is key to ensure safet..",4,4,4,3,Solid advice, slightly less nuanced
+three-day-backpacking,"For your 3-day backpacking trip in the mountains in October, prioritizing safety is crucial ...",4,4,4,4,Good safety guidance, concise
+winter-hiking,"Great question! Winter hiking demands extra preparation to stay safe and comfortable. ...",4,4,4,3,Clear comparison, adequate detail
+trail-difficulty,"As a beginner hiker, assessing if a trail matches your fitness level is key for an enjoyable ...",4,4,4,4,Practical framework provided
