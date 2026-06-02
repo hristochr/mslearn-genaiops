@@ -1,0 +1,6 @@
+test_prompt,agent_response_excerpt,intent_resolution,relevance,groundedness,comments
+day-hike-gear,""**Great question! For a safe and enjoyable summer day hike in moderate terrain, here\u2019s your essential gear checklist...",5,5,4,Clear and comprehensive gear list
+overnight-camping,"That\u2019s exciting\u2014you\u2019re about to start a great adventure! Proper preparation is key to a fun, safe...",4,4,5,Good beginner advice with safety focus
+three-day-backpacking,"Great choice! Autumn backpacking in the mountains is beautiful, but October brings specific challenges. Here are the most...",5,5,5,Excellent detailed safety guidance
+winter-hiking,"Excellent question\u2014winter hiking requires significant adjustments to both your **gear** and **precautions** compared...",4,4,4,Good comparison of seasonal differences
+trail-difficulty,"Great question! As a beginner hiker, choosing the right trail is crucial for your safety and enjoyment. Here\u2019s...",5,5,5,Helpful framework for self-assessment
