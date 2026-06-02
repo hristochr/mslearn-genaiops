@@ -1,0 +1,6 @@
+test_prompt,agent_response_excerpt,intent_resolution,relevance,groundedness,comments
+day-hike-gear,"Great question! Here\u2019s a **practical summer day hike gear list** tailored for moderate terrain...",5,5,4,Maintains quality with reduced verbosity
+overnight-camping,"Great to hear you\u2019re planning your first overnight camping trip! Here\u2019s a step-by-step guide to help...",4,5,5,More direct while preserving safety focus
+three-day-backpacking,"Great choice\u2014mountain hiking in October can be beautiful, but it's also when conditions can quickly become...",5,5,5,Excellent concise safety guidance
+winter-hiking,"Great question! Winter hiking is both rewarding and challenging, and it requires additional preparation ...",5,4,4,Clear comparison without excess detail
+trail-difficulty,"Great question! Matching a trail to your fitness and experience is essential for enjoyment and safety..",5,5,5,Helpful and actionable guidance
